@@ -1,0 +1,34 @@
+<p align="center"
+   <img src="https://github.com/NishantDhir/AdventureWorks-Dataset-Dashboard_BusinessAnalysis/blob/main/Report.png" />
+</p>
+
+# AtliQo Telecommunication
+A data analysis project with the help of dataset and PowerBI.
+
+### What's included?
+```bash
+   # Datasets
+   Cities, Market Share, Revenue, Plans &  Metrics.
+
+Job Role: Junior Data Analyst
+Domain: Telecommunication
+Function: Executive Management
+
+   # Data Visualization report(s).
+```
+
+### What's required?
+1. Data cleaning with the help of query editor tool (data modelling).
+2. Creating new columns and calculating new measures by DAX functions.
+3. Use of star schema and/ or snow-flake schema.
+4. Creating relationship between the tables containing same variables.
+5. Data visualization with the help of PowerBI.
+6. The management is keen to compare the performance between these periods and get insights which would enable them to make informed decisions to recover their active user rate and other key metrics.
+
+### Findings
+- The Market share of AtliQo was the highest specifiying its importance in tbe market.
+- The Revenue trendline records an upsurge along with active users.
+- The goal of achieving $2.13M was exceeded by 93%.
+- The maximum ARPU was recorded on June 01, 2022 but the number of active users saw a downfall. 
+- The active users upsurged.
+- There are different factors that hinders rise of 5G like Network area, Income, Customer Segment/ Satisfaction and Device type. To bring unsuscribed customer on board, Marketing team must conduct a research to bring out new factors.
